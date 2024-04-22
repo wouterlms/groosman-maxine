@@ -1,0 +1,1 @@
+import{a1 as o,a2 as r,a3 as i}from"./index-E1lsH67L.js";function s(t=""){if(!o())throw new Error("vue-query hooks can only be used inside setup() function or functions that support injection context.");const n=i(t),e=r(n);if(!e)throw new Error("No 'queryClient' found in Vue context, use 'VueQueryPlugin' to properly initialize the library.");return e}export{s as u};
